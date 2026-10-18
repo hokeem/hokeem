@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="248" viewBox="0 0 570 248" role="img" aria-labelledby="title desc">
+<title id="title">When2buy</title><desc id="desc">From research to publishing. An agent workflow for U.S. market content.</desc>
+<rect width="570" height="248" rx="14" fill="#f3e8d5"/>
+<g fill="#685234" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+<text x="28" y="46" font-family="monospace" font-size="12" letter-spacing="1.5">03 / CONTENT OPERATIONS</text>
+<g color="#685234" opacity=".65"><path d="M471 84h60M477 76V60m15 16V49m15 27V58m15 18V37" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round"/></g>
+<text x="27" y="111" font-size="31" font-weight="750" letter-spacing="-.8">When2buy</text>
+<text x="29" y="148" font-size="20" font-weight="550">From research to publishing.</text>
+<text x="29" y="176" font-size="14" opacity=".8">An agent workflow for U.S. market content.</text>
+<path d="M29 201H541" stroke="#685234" stroke-opacity=".18"/>
+<text x="29" y="227" font-family="monospace" font-size="11" letter-spacing="1">EXPLORE PROJECT</text>
+<path d="M520 222h18m-7-7 7 7-7 7" stroke="#685234" stroke-width="1.6" fill="none"/>
+</g></svg>
