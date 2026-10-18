@@ -1,26 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="408" viewBox="0 0 1200 408" role="img" aria-labelledby="title desc">
-<title id="title">HOKEEM — Ideas into things people use.</title>
-<desc id="desc">AI products, creative tools and content systems. A personal collection of things built, shipped and explored.</desc>
-<defs><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#b9d4ba" stroke-opacity=".07"/></pattern></defs>
-<rect width="1200" height="408" rx="20" fill="#111b16"/>
-<rect x="740" width="460" height="408" fill="url(#grid)"/>
-<path d="M48 80H1152" stroke="#354238"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="414" viewBox="0 0 1200 414" role="img" aria-labelledby="title desc">
+<title id="title">HOKEEM — Products. Videos. Visuals.</title><desc id="desc">Vibe coding products and AIGC visuals. Selected work by Hokeem.</desc>
+<rect width="1200" height="414" fill="#0b0907"/>
 <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
-<text x="48" y="51" fill="#eff0e6" font-size="22" font-weight="750" letter-spacing="5">HOKEEM<tspan fill="#c5f277">.</tspan></text>
-<text x="1152" y="49" text-anchor="end" fill="#a0b3a4" font-family="monospace" font-size="13" letter-spacing="2">BUILD / CREATE / ITERATE</text>
-<text x="46" y="158" fill="#eff0e6" font-size="59" font-weight="750" letter-spacing="-2">Ideas into</text>
-<text x="46" y="229" fill="#c5f277" font-size="59" font-weight="750" letter-spacing="-2">things people use.</text>
-<text x="49" y="275" fill="#afbeb0" font-size="18">AI products, creative tools &amp; content systems.</text>
-<rect x="48" y="326" width="9" height="9" rx="4.5" fill="#c5f277"/>
-<text x="69" y="337" fill="#d7e2d5" font-family="monospace" font-size="13" letter-spacing="1.1">A PERSONAL COLLECTION OF WORK &amp; EXPERIMENTS</text>
-<g transform="translate(843 110)">
-<rect x="48" y="0" width="213" height="238" rx="12" fill="#293c2c" stroke="#51634c" transform="rotate(10 155 119)"/>
-<rect x="14" y="8" width="213" height="238" rx="12" fill="#c5f277" transform="rotate(-7 120 127)"/>
-<rect x="0" y="13" width="213" height="238" rx="12" fill="#edf0e2"/>
-<circle cx="23" cy="37" r="4" fill="#1b2b1d"/><circle cx="38" cy="37" r="4" fill="#bac5ad"/><circle cx="53" cy="37" r="4" fill="#bac5ad"/>
-<path d="M0 57H213" stroke="#cdd5c4"/>
-<path d="M49 121L28 142L49 163M163 121L184 142L163 163M125 102L89 182" fill="none" stroke="#243d2b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="23" y="213" width="90" height="6" rx="3" fill="#b3bfa9"/>
-<rect x="23" y="225" width="55" height="5" rx="2.5" fill="#d0d7c8"/>
-<path d="M171 216h18m-8-8 8 8-8 8" fill="none" stroke="#243d2b" stroke-width="2"/>
-</g></g></svg>
+<text x="45" y="47" fill="#e2ad51" font-size="14" letter-spacing="2">HOKEEM / SELECTED WORK</text>
+<text x="1155" y="47" fill="#ada393" text-anchor="end" font-family="monospace" font-size="12" letter-spacing="1">(PRODUCTS &amp; CREATIVE PRACTICE)</text>
+<path d="M45 70H1155" stroke="#443728"/>
+<text x="40" y="175" fill="#f4efe4" font-size="104" font-weight="500" letter-spacing="-6">Products.</text>
+<text x="40" y="283" fill="#f4efe4" font-size="104" font-weight="500" letter-spacing="-6">Videos. <tspan fill="#e2ad51">Visuals.</tspan></text>
+<g transform="translate(1018 195)" fill="none" stroke="#e2ad51">
+<ellipse rx="72" ry="104" stroke-opacity=".65" transform="rotate(35)"/>
+<ellipse rx="72" ry="104" stroke-opacity=".35" transform="rotate(-35)"/>
+<ellipse rx="105" ry="38" stroke-opacity=".45"/>
+<circle cx="0" cy="0" r="6" fill="#e2ad51" stroke="none"/>
+<path d="M-17 0h34M0-17v34" stroke-width="1.2"/>
+</g>
+<path d="M45 337H1155" stroke="#443728"/>
+<text x="45" y="378" fill="#ada393" font-size="13" letter-spacing="1.6">VIBE CODING PRODUCTS &amp; AIGC VISUALS</text>
+<text x="1155" y="378" text-anchor="end" fill="#e2ad51" font-size="15">Explore the work ↗</text>
+</g></svg>
