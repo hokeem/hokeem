@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="570" height="248" viewBox="0 0 570 248" role="img" aria-labelledby="title desc">
-<title id="title">Koko Creator</title><desc id="desc">Scripts, delivered to creators. A script discovery portal for Brazilian creators.</desc>
+<title id="title">Kwai Content Platform</title><desc id="desc">AI creator operations: discovery, screening and script workflows.</desc>
 <rect x=".5" y=".5" width="569" height="247" rx="3" fill="#17130e" stroke="#443728"/>
 <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
 <text x="27" y="40" fill="#e2ad51" font-family="monospace" font-size="11" letter-spacing="1.4">01 / CREATOR EXPERIENCE</text>
 <g fill="none" stroke="#e2ad51" stroke-width="1.4" opacity=".7"><rect x="470" y="28" width="59" height="45" rx="2"/><path d="M481 41h28m-28 9h36m-36 9h20"/></g>
-<text x="25" y="105" fill="#f4efe4" font-size="32" font-weight="500" letter-spacing="-1.1">Koko Creator</text>
-<text x="27" y="144" fill="#f4efe4" font-size="19">Scripts, delivered to creators.</text>
-<text x="27" y="174" fill="#ada393" font-size="14">A script discovery portal for Brazilian creators.</text>
+<text x="25" y="105" fill="#f4efe4" font-size="32" font-weight="500" letter-spacing="-1.1">Kwai Content Platform</text>
+<text x="27" y="144" fill="#f4efe4" font-size="19">AI video discovery, analysis and script generation.</text>
+<text x="27" y="174" fill="#ada393" font-size="14">Creator operations, built with AI.</text>
 <path d="M27 202H543" stroke="#443728"/>
 <text x="27" y="228" fill="#e2ad51" font-family="monospace" font-size="11" letter-spacing="1.3">VIEW PROJECT</text>
 <path d="M523 224l14-14m-13 0h13v13" stroke="#e2ad51" stroke-width="1.4" fill="none"/>
